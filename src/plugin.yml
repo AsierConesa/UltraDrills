@@ -1,0 +1,11 @@
+api-version: 1.19
+name: UltraDrills
+author: BigSmall_8
+version: 1.0
+main: com.mycompany.ultradrills.UltraDrills
+descripcion: Easy Drills for your minecraft server!
+commands:
+    drill:
+        description: Usa /drill para ver la lista de comandos
+        usage: /drill
+# depends: UMLEconomy
